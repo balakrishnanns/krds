@@ -1,0 +1,24 @@
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    background-color: #2196F3;
+    height: 100%;
+}
+.bgColor0{
+    background-color: #41CA6E;
+}
+.bgColor1{
+    background-color: #FAB153;
+}
+.bgColor2{
+    background-color: #7277D5;
+}
+.bgColor3{
+    background-color: #F87D51;
+}
+.bgColor4{
+    background-color: #ED5466;
+}
+.bgColor5{
+    background-color: #4EC2E7;
+}

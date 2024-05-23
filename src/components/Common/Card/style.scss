@@ -1,0 +1,51 @@
+.grid-item {
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    padding: 15px;
+}
+
+.productImage {
+    max-width: 100%;
+    height: auto;
+}
+
+.cardLayout {
+    display: flex;
+    align-items: center;
+    padding: 15px;
+
+}
+.logoImage{
+    width: 100px;
+}
+
+.title {
+    font-size: 16px;
+    color: #fff;
+    margin: 15px 0;
+    width: 100%;
+    max-width: 200px;
+}
+
+.subtext {
+    font-size: 16px;
+    color: #fff;
+    margin: 15px 0;
+    text-transform: uppercase;
+}
+
+.hr {
+    width: 100%;
+    border: 1px solid #fff;
+    margin: 10px 0;
+    max-width: 215px;
+}
+
+.cardtext {
+    text-align: left;
+    width: 100%;
+    max-width: 400px;
+}
