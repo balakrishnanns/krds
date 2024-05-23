@@ -4,6 +4,6 @@ in command prompt - first install node modules
 
 npm i
 
-next tun the app
+next run the react app
 
 npm start
